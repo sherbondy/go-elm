@@ -6,4 +6,3 @@ I have never used Elm before.
 I just started playing Go last week.
 
 The point is to have fun learning!
-
